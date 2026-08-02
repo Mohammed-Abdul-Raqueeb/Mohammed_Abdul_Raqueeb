@@ -21,9 +21,7 @@ I'm passionate about software development and continuously improving my programm
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🎯 Goal
+Become a Full-Stack Software Engineer by building real-world projects.
 
-Become a Full-Stack Software Engineer and build impactful software.
-
-![Mohammed Abdul Raqueeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdul-Raqueeb&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ---
 ⭐ Thanks for visiting my profile!
