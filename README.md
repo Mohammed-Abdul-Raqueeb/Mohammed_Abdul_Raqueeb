@@ -39,6 +39,13 @@ I'm currently learning and building projects. This section will be updated as I 
   </a>
 </p>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Abdul-Raqueeb&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+> *"Code. Learn. Build. Repeat."* 🚀
 
 ## 🎯 Goal
 Become a Full-Stack Software Engineer by building real-world projects.
