@@ -15,6 +15,13 @@ I'm passionate about software development and continuously improving my programm
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,html,css,js,vscode" />
 </p>
+
+## 🧰 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,windows,github" />
+</p>
+
 ## 🎯 Goal
 Become a Full-Stack Software Engineer by building real-world projects.
 
