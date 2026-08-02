@@ -36,6 +36,12 @@ I'm currently learning and building projects. This section will be updated as I 
   </a>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohammed-Abdul-Raqueeb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## 🎯 Goal
 Become a Full-Stack Software Engineer by building real-world projects.
 
