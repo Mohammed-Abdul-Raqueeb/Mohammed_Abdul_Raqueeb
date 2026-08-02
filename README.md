@@ -22,6 +22,20 @@ I'm passionate about software development and continuously improving my programm
   <img src="https://skillicons.dev/icons?i=vscode,windows,github" />
 </p>
 
+## 📂 Featured Projects
+
+🚧 Projects coming soon...
+
+I'm currently learning and building projects. This section will be updated as I complete more projects.
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-abdul-raqueeb-895abb327/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
 ## 🎯 Goal
 Become a Full-Stack Software Engineer by building real-world projects.
 
