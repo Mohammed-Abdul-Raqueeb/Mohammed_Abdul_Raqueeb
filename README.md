@@ -24,8 +24,6 @@ I'm passionate about software development and continuously improving my programm
 
 Become a Full-Stack Software Engineer and build impactful software.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdul-Raqueeb&show_icons=true&theme=tokyonight)
+![Mohammed Abdul Raqueeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Abdul-Raqueeb&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ---
 ⭐ Thanks for visiting my profile!
