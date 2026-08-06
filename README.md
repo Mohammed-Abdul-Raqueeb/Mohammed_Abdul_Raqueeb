@@ -3,14 +3,14 @@
 <hr>
 
 <h3 align="center">
-🚀 Aspiring Software Engineer
+🚀 Exploring the World of Code
 </h3>
 
 <br>
 
 <div align="center">
 
-Building software, one project at a time.
+Curious about technology, learning new concepts, and building things that solve problems.
 
 </div>
 
